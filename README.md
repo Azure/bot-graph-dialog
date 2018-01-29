@@ -6,7 +6,7 @@ Use this library to define graph-based dialogs instead of the waterfall dialogs 
 Also, instead of hard coding your dialogs, use this library to define your dialogs as jsons.
 These dialogs can be loaded dynamically from any external data source (db, file system, etc.)
 
-Code sample for how to use this library can be found [here](https://github.com/CatalystCode/bot-trees).
+Code sample for how to use this library can be found [here](https://github.com/Azure/bot-trees).
 
 
 ## Getting Started
@@ -54,7 +54,7 @@ BotGraphDialog.GraphDialog
 
 ```
 
-**See sample bot app [here](https://github.com/CatalystCode/bot-trees)**
+**See sample bot app [here](https://github.com/Azure/bot-trees)**
 
 
 ## Sample Scenarios
