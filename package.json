@@ -1,14 +1,27 @@
 {
   "name": "bot-graph-dialog",
   "version": "3.15.0",
-  "description": "This node module is an extension for Microsoft Bot Framework.",
+  "description": "bot graph dialog",
   "main": "index.js",
-  "directories": {
-    "example": "examples",
-    "lib": "lib"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure/bot-graph-dialog.git"
+  },
+  "keywords": [
+    "bot",
+    "graph",
+    "dialog"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azure/bot-graph-dialog/issues"
+  },
+  "homepage": "https://github.com/Azure/bot-graph-dialog#readme",
+  "dependencies": {
     "botbuilder": "^3.14.0",
     "extend": "^3.0.0",
     "jsep": "^0.3.0",
@@ -17,17 +30,30 @@
     "underscore": "^1.8.3",
     "uuid": "^2.0.3"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "gitHead": "01fd40b70f7e84c71806785dd3fe54500956403f",
+  "_id": "bot-graph-dialog@3.4.5",
+  "_shasum": "695bc3b0e10a8147dd8e1bbce2f26868807f5fde",
+  "_from": "bot-graph-dialog@3.4.5",
+  "_npmVersion": "2.15.1",
+  "_nodeVersion": "4.4.4",
+  "_npmUser": {
+    "name": "amiturgman",
+    "email": "ami.turgman@microsoft.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/masteroes/bot-graph-dialog-1.git"
+  "dist": {
+    "shasum": "695bc3b0e10a8147dd8e1bbce2f26868807f5fde",
+    "tarball": "https://registry.npmjs.org/bot-graph-dialog/-/bot-graph-dialog-3.4.5.tgz"
   },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/masteroes/bot-graph-dialog-1/issues"
+  "maintainers": [
+    {
+      "name": "amiturgman",
+      "email": "ami.turgman@microsoft.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/bot-graph-dialog-3.4.5.tgz_1481033480636_0.8297735422383994"
   },
-  "homepage": "https://github.com/masteroes/bot-graph-dialog-1#readme"
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/bot-graph-dialog/-/bot-graph-dialog-3.4.5.tgz"
 }
