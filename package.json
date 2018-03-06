@@ -1,6 +1,6 @@
 {
   "name": "bot-graph-dialog",
-  "version": "3.14.0",
+  "version": "3.15.0",
   "description": "bot graph dialog",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "extend": "^3.0.0",
     "jsep": "^0.3.0",
     "request-promise": "^4.1.1",
-    "strformat": "0.0.7",
+    "strformat": "^0.0.7",
     "underscore": "^1.8.3",
     "uuid": "^2.0.3"
   },
@@ -49,6 +49,9 @@
       "name": "amiturgman",
       "email": "ami.turgman@microsoft.com"
     }
+  ],
+  "contributors": [
+    "Vishnu Narayan Dubey <masteroes@gmail.com>"
   ],
   "_npmOperationalInternal": {
     "host": "packages-12-west.internal.npmjs.com",
