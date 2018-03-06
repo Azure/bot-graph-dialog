@@ -50,6 +50,9 @@
       "email": "ami.turgman@microsoft.com"
     }
   ],
+  "contributors": [
+    "Vishnu Narayan Dubey <masteroes@gmail.com>"
+  ],
   "_npmOperationalInternal": {
     "host": "packages-12-west.internal.npmjs.com",
     "tmp": "tmp/bot-graph-dialog-3.4.5.tgz_1481033480636_0.8297735422383994"
